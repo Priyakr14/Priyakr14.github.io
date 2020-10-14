@@ -9,7 +9,7 @@
 ---
 [Movie Recommender System](https://github.com/Priyakr14/Movie-Recommender-System.git)
 
-<img src="https://github.com/Priyakr14/Movie-Recommender-System?raw=true"/>
+<img src="https://github.com/Priyakr14/Movie-Recommender-System/blob/master/Recommendation-systems.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
