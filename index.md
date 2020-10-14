@@ -2,7 +2,7 @@
 
 ---
 
-[Twitter Sentiment Analysis] (https://github.com/Priyakr14/Twitter-Sentiment-Analysis-for-Airlines)
+[Twitter Sentiment Analysis](https://github.com/Priyakr14/Twitter-Sentiment-Analysis-for-Airlines)
 <img src="https://github.com/Priyakr14/Twitter-Sentiment-Analysis-for-Airlines/blob/master/TSA.png"/>
 
 ---
