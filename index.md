@@ -7,8 +7,9 @@
 <img src="https://github.com/Priyakr14/Twitter-Sentiment-Analysis-for-Airlines/blob/master/TSA.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Movie Recommender System](https://github.com/Priyakr14/Movie-Recommender-System.git)
+
+<img src="https://github.com/Priyakr14/Movie-Recommender-System?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
