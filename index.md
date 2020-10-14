@@ -7,6 +7,7 @@
 <img src="https://github.com/Priyakr14/Twitter-Sentiment-Analysis-for-Airlines/blob/master/TSA.png?raw=true"/>
 
 ### Project Details: 
+Increasing turbulence in the Airlines Industry and a competitive landscape are pushing all operators to rethink customer strategies. A key enabler is the data available on customers. Travelers nowadays are increasingly turning to social media, primarily Twitter and Facebook, to express their travel experience. Once posted on social media, a matter is no more limited to the particular consumer and service provider only, it is broadcasted to a much larger audience. It also becomes a source for other companies to get insights into their competitor’s business. This project aims to understand consumer sentiments on Social Media and to develop models that can accurately predict the response based on the available data. It also includes a strategy to translate model predictions into a set of actions needs to be put in place. [Click Here](https://github.com/Priyakr14/Twitter-Sentiment-Analysis-for-Airlines.git) or the the project headline above to view the code and the complete project pdf.
 
 ---
 [Movie Recommender System](https://github.com/Priyakr14/Movie-Recommender-System.git)
