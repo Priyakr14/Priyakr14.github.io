@@ -15,7 +15,7 @@
 
 [Customer Churn Prediction](https://github.com/Priyakr14/Customer-Churn-Prediction.git)
 
-<img src="https://github.com/Priyakr14/Customer-Churn-Prediction/blob/master/1_X-oZNRw5Pnef-kR9CgLx1g.png?raw=true"/>
+<img src="https://github.com/Priyakr14/Customer-Churn-Prediction/blob/master/customer%20churn.png?raw=true"/>
 
 ---
 
