@@ -12,7 +12,7 @@
 <img src="https://github.com/Priyakr14/Movie-Recommender-System/blob/master/Recommendation-systems.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Customer Churn Prediction](https://github.com/Priyakr14/Customer-Churn-Prediction.git)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
