@@ -2,8 +2,8 @@
 
 ---
 
-[Twitter Sentiment Analysis](https://github.com/Priyakr14/Twitter-Sentiment-Analysis-for-Airlines)
-<img src="https://github.com/Priyakr14/Twitter-Sentiment-Analysis-for-Airlines/blob/master/TSA.png"/>
+[Twitter Sentiment Analysis](https://github.com/Priyakr14/Twitter-Sentiment-Analysis-for-Airlines.git)
+<img src="TSA.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
