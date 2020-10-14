@@ -6,6 +6,8 @@
 
 <img src="https://github.com/Priyakr14/Twitter-Sentiment-Analysis-for-Airlines/blob/master/TSA.png?raw=true"/>
 
+# Project Details: 
+
 ---
 [Movie Recommender System](https://github.com/Priyakr14/Movie-Recommender-System.git)
 
