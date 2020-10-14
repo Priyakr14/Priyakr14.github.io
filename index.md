@@ -12,6 +12,7 @@
 <img src="https://github.com/Priyakr14/Movie-Recommender-System/blob/master/Recommendation-systems.jpg?raw=true"/>
 
 ---
+
 [Customer Churn Prediction](https://github.com/Priyakr14/Customer-Churn-Prediction.git)
 
 <img src="https://github.com/Priyakr14/Customer-Churn-Prediction/blob/master/1_X-oZNRw5Pnef-kR9CgLx1g.png?raw=true"/>
