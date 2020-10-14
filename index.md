@@ -1,10 +1,10 @@
-## Portfolio
+## Data Science Portfolio
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+[Twitter Sentiment Analysis](Priyakr14
+/
+Twitter-Sentiment-Analysis-for-Airlines)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
