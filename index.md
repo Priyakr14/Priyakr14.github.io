@@ -24,6 +24,9 @@ Most Big names in technology industry, such as Disney, YouTube, Amazon, Netflix 
 
 <img src="https://github.com/Priyakr14/Customer-Churn-Prediction/blob/master/customer%20churn.png?raw=true"/>
 
+### Project Details: 
+Most telecom companies suffer from voluntary churn. Churn rate has strong impact on the life time value of the customer because it affects the length of service and the future revenue of the company. Telecom companies have used two approaches to address churn - (a) Untargeted approach and (b) Targeted approach. The untargeted approach relies on superior product and mass advertising to increase brand loyalty and thus retain customers. The targeted approach relies on identifying customers who are likely to churn, and  provide suitable individuals incentives to stay, leading to improved retention and higher returns for every dollar spent on customer acquisition. This project aims to develop a machine learning model to predict whether a customer will churn or not churn. [Click Here](https://github.com/Priyakr14/Customer-Churn-Prediction.git) or on the project headline above to view the code and the complete project details.
+
 ---
 
 
