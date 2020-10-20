@@ -36,7 +36,14 @@ Most telecom companies suffer from voluntary churn. Churn rate has strong impact
 ### Project Details: 
 The problem under consideration is a Vehicle Routing problem. Industry is experiencing surge in variety of delivery services due to availability of items and fulfilment over the internet. A prevalent model is to utilize a delivery truck with one or more unmanned vehicles, drones in this case to achieve the delivery purpose with trucks simultaneously. In this study my objective is to minimize the total travel cost incurred at the same time by completing the task in the shortest time possible, hence selecting a minimum distance(optimal) route to cover all the customers. [Click Here](https://github.com/Priyakr14/Optimization-of-Truck-Drone-Delivery-System.git) or on the project headline above to view the code and the complete project details.
 
+---
 
+## [AirBnB Zillow Property Analysis](https://github.com/Priyakr14/AirBnB-Zillow-Data-Analysis.git)
+
+<img src="https://github.com/Priyakr14/AirBnB-Zillow-Data-Analysis/blob/main/airbnb-1.jpg?raw=true"/>
+
+### Project Details: 
+The problem under consideration involves a real estate company that has a niche in purchasing properties. It has planned to rent out short-term as part of their business model specifically within New York City, wants to know which zip codes are the best to invest in. The company has already concluded that two bedroom properties are the most profitable. Airbnb is a internet marketplace for short-term home and apartment rentals. It allows you to, for example, rent (list) out your home for a week while you’re away, or rent out your empty bedroom. One challenge that Airbnb face is determine the optimal locations to buy properties. Zillow allows to view the property rates for various locations by their zipcodes. The data behind the Airbnb and Zillow site is sourced from publicly available information from the their sites. [Click Here](https://github.com/Priyakr14/AirBnB-Zillow-Data-Analysis.git) or on the project headline above to view the code and the complete project details.
 
 
 
