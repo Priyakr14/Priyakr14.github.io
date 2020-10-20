@@ -29,7 +29,7 @@ Unstructured text data is everywhere on internet in the form of emails, chats, s
 <img src="https://github.com/Priyakr14/Movie-Recommender-System/blob/master/Recommendation-systems.jpg?raw=true"/>
 
 ### Project Details: 
-Most Big names in technology industry, such as Disney, YouTube, Amazon, Netflix and many other such web services, use recommender systems to enhance the viewer’s experience and increase profit. From e-commerce (suggest to buyer articles that could interest them) to online advertisement (suggest to users the right contents, matching their preferences), they are on every online platform today. This project aims to develop a simple recommendation system based on MovieLens Dataset, to suggest users which movies to watch next. [Click Here](https://github.com/Priyakr14/Movie-Recommender-System.git) or on the project headline above to view the code and the complete project details.
+Most Big names in technology industry, such as Disney, YouTube, Amazon, Netflix and many other such web services, use recommender systems to enhance the viewer’s experience and increase profit. From e-commerce (suggest to buyer articles that could interest them) to online advertisement (suggest to users the right contents, matching their preferences), they are on every online platform today. Movie recommendations are very subjective and vary from one user to another. Each model has a different approach and its own set of pros and cons. This project aims to develop a simple recommendation system based on MovieLens Dataset, to suggest users which movies to watch next. [Click Here](https://github.com/Priyakr14/Movie-Recommender-System.git) or on the project headline above to view the code and the complete project details.
 
 ---
 
