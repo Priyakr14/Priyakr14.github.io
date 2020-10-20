@@ -70,4 +70,5 @@ The problem under consideration involves a real estate company that has a niche 
 
 
 ---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
