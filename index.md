@@ -11,6 +11,7 @@ Increasing turbulence in the Airlines Industry and a competitive landscape are p
 
 ---
 
+
 ## [Multi-Class Text Classification](https://github.com/Priyakr14/Multi-Class-Text-Classification.git)
 
 <img src="https://github.com/Priyakr14/Multi-Class-Text-Classification/blob/main/text_classification.png?raw=true"/>
@@ -19,6 +20,7 @@ Increasing turbulence in the Airlines Industry and a competitive landscape are p
 Unstructured text data is everywhere on internet in the form of emails, chats, social media posts, complaint logs, and survey. Text classification is the process of categorizing text into different predefined classes. By using Natural Language Processing (NLP), text classifiers can automatically analyze text and then assign a set of pre-defined tags or categories based on its content. Lately, deep learning approaches are achieving better results compared to previous machine learning algorithms on tasks like image classification, natural language processing, face recognition, etc. This study would cover supervised learning models and deep learning models for multi-class text classification and would investigate which methods are best suited to solve it. The classifier assumes that each new complaint is assigned to one and only one category. [Click Here](https://github.com/Priyakr14/Multi-Class-Text-Classification.git) or on the project headline above to view the code and the complete project details.
 
 ---
+
 
 ## [Movie Recommender System](https://github.com/Priyakr14/Movie-Recommender-System.git)
 
@@ -29,6 +31,7 @@ Most Big names in technology industry, such as Disney, YouTube, Amazon, Netflix 
 
 ---
 
+
 ## [Customer Churn Prediction](https://github.com/Priyakr14/Customer-Churn-Prediction.git)
 
 <img src="https://github.com/Priyakr14/Customer-Churn-Prediction/blob/master/customer%20churn.png?raw=true"/>
@@ -38,6 +41,7 @@ Most telecom companies suffer from voluntary churn. Churn rate has strong impact
 
 ---
 
+
 ## [Delivery System Optimization](https://github.com/Priyakr14/Optimization-of-Truck-Drone-Delivery-System.git)
 
 <img src="https://github.com/Priyakr14/Optimization-of-Truck-Drone-Delivery-System/blob/master/Workhorse-Drone-Delivery-Truck-System%20(1).jpg?raw=true"/>
@@ -46,6 +50,7 @@ Most telecom companies suffer from voluntary churn. Churn rate has strong impact
 The problem under consideration is a Vehicle Routing problem. Industry is experiencing surge in variety of delivery services due to availability of items and fulfilment over the internet. A prevalent model is to utilize a delivery truck with one or more unmanned vehicles, drones in this case to achieve the delivery purpose with trucks simultaneously. In this study my objective is to minimize the total travel cost incurred at the same time by completing the task in the shortest time possible, hence selecting a minimum distance(optimal) route to cover all the customers. [Click Here](https://github.com/Priyakr14/Optimization-of-Truck-Drone-Delivery-System.git) or on the project headline above to view the code and the complete project details.
 
 ---
+
 
 ## [AirBnB Zillow Property Analysis](https://github.com/Priyakr14/AirBnB-Zillow-Data-Analysis.git)
 
