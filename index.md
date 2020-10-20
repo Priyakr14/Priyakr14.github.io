@@ -29,6 +29,13 @@ Most telecom companies suffer from voluntary churn. Churn rate has strong impact
 
 ---
 
+## [Delivery System Optimization](https://github.com/Priyakr14/Optimization-of-Truck-Drone-Delivery-System.git)
+
+<img src="https://github.com/Priyakr14/Optimization-of-Truck-Drone-Delivery-System/blob/master/Workhorse-Drone-Delivery-Truck-System%20(1).jpg?raw=true"/>
+
+### Project Details: 
+The problem under consideration is a Vehicle Routing problem. Industry is experiencing surge in variety of delivery services due to availability of items and fulfilment over the internet. A prevalent model is to utilize a delivery truck with one or more unmanned vehicles, drones in this case to achieve the delivery purpose with trucks simultaneously. In this study my objective is to minimize the total travel cost incurred at the same time by completing the task in the shortest time possible, hence selecting a minimum distance(optimal) route to cover all the customers. [Click Here](https://github.com/Priyakr14/Optimization-of-Truck-Drone-Delivery-System.git) or on the project headline above to view the code and the complete project details.
+
 
 
 
